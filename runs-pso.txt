@@ -1,0 +1,5 @@
+populationSize : 20, swarmCount : 2 , maxGenerations : 10000, dataPointFrequency : 1000, regroupPeriod : 5, localTrialPct : 0.9, fileName : input.txt, trials : 10  
+populationSize : 20, swarmCount : 10 , maxGenerations : 10000, dataPointFrequency : 1000, regroupPeriod : 5, localTrialPct : 0.9, fileName : input.txt, trials : 5  
+populationSize : 20, swarmCount : 4 , maxGenerations : 10000, dataPointFrequency : 1000, regroupPeriod : 5, localTrialPct : 0.9, fileName : input.txt, trials : 10  
+populationSize : 50, swarmCount : 5 , maxGenerations : 10000, dataPointFrequency : 1000, regroupPeriod : 5, localTrialPct : 0.9, fileName : input.txt, trials : 10  
+populationSize : 50, swarmCount : 10 , maxGenerations : 10000, dataPointFrequency : 1000, regroupPeriod : 5, localTrialPct : 0.9, fileName : input.txt, trials : 10  
